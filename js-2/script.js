@@ -32,4 +32,4 @@ for (let i = 0; i < squadre.length; i++) {
 
 
 console.log(squadre);
-console.log("nomi e falli subiti", nomiFalliSubiti);
+console.log("squadre e falli subiti", nomiFalliSubiti);
